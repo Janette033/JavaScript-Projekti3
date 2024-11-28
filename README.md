@@ -1,5 +1,5 @@
 # Project Title 
-The project author is Janette, and the project name is "Finnkino Elokuvainformaatio". This is the jQuery version.
+The project name is "Finnkino Elokuvainformaatio". This is the jQuery version.
 
 ## Demo link:
 https://inspiring-pothos-4b7ed2.netlify.app/ 
