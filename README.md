@@ -24,7 +24,6 @@ Finnkino Elokuvainformaatio is an app that uses the live REST API from Finnkino.
 ## Screenshots
 
 ## Technologies
-Describe which technologies were used and the role of each in your project. 
 html, bootstrap, css, javaScript and jQuery. 
 
 ## Setup
