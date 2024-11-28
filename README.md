@@ -19,7 +19,7 @@ I did everything myself.
 - [License](#license)
 
 ## About The App
-Finnkino Elokuvainformaatio is an app that uses the live REST API from Finnkino. This application is built using only jQuery features. In the app, users can select a theater from a dropdown menu, and the page will display the movies currently playing at that theater. Alternatively, users can search for a movie by name in the search field, and the page will show the results based on the search term. The search can also be performed using both methods simultaneously.
+Finnkino Elokuvainformaatio is an app that uses the live REST API from Finnkino. This application is built using jQuery features. In the app, users can select a theater from a dropdown menu, and the page will display the movies currently playing at that theater. Alternatively, users can search for a movie by name in the search field, and the page will show the results based on the search term. The search can also be performed using both methods simultaneously.
 
 ## Screenshots
 
