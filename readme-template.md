@@ -1,13 +1,11 @@
 # Project Title 
-The project author is Janette, and the project name is "ToDoList".
+The project author is Janette, and the project name is "Finnkino Elokuvainformaatio". This is the jQuery version.
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+https://inspiring-pothos-4b7ed2.netlify.app/ 
 
 ## How was the workload divided
 I did everything myself. 
-
-
 
 ## Table of Content:
 
@@ -21,34 +19,27 @@ I did everything myself.
 - [License](#license)
 
 ## About The App
-The application's name is "To Do List." The user can add tasks through the input field, and the tasks are added to the page as a list. The user can manage the tasks by deleting them or marking them as completed. Additionally, tasks can be filtered based on completed and ongoing statuses.
+Finnkino Elokuvainformaatio is an app that uses the live REST API from Finnkino. This application is built using only jQuery features. In the app, users can select a theater from a dropdown menu, and the page will display the movies currently playing at that theater. Alternatively, users can search for a movie by name in the search field, and the page will show the results based on the search term. The search can also be performed using both methods simultaneously.
 
 ## Screenshots
-Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
-
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies
 Describe which technologies were used and the role of each in your project. 
-I used the following technologies `html`, `css`, ...
+html, bootstrap, css, javaScript and jQuery. 
 
 ## Setup
-Write brief instructions on how to run and use your app. For example:
-- download all the files and open index.html in your browser
-- download or clone the repository
-- run `npm install`
-- ...
+You can use the application via the link located under the demo link section.
 
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+Ready.
 
 ## Credits
-List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+I used Bootstrap to style the page's search fields: https://bootsnipp.com/snippets/WMlMa
+
+This video helped with making an AJAX request in the jQuery version: LearnCode.academy. 2014. jQuery Ajax Tutorial #1 - Using AJAX & API's (jQuery Tutorial #7). YouTube. 
+https://www.youtube.com/watch?v=fEYx8dQr_cQ 
+
+ChatGPT has helped in this project by finding errors in the code, improving the code, and suggesting solutions for implementing certain functionalities.
 
 ## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
-Example: MIT license @ [author](author.com)
